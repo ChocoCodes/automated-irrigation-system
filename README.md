@@ -12,7 +12,7 @@ This project is provided as-is, and there is no guarantee that it will remain up
 - Replication of this project may require updates or modifications to maintain functionality.
 - The maintainers may not actively monitor or update this repository.
 
-Please consider these factors before using or replicating this project in your own environment. For any inquries regarding this project, please see [CONTACT](## Contact).
+Please consider these factors before using or replicating this project in your own environment. For any inquries regarding this project, please see [CONTACT](#Contact).
 
 
 ## Description:
@@ -50,7 +50,7 @@ Engr. George Wilfred L. Solancho
 **Please see [LICENSE](LICENSE) for more information regarding the licenses.**
 
 
-## Contact
+# Contact
 
 If you encounter any bugs or have suggestions for improvements, please feel free to contact me via:
 - **Email:** [johnrlnd1704@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=johnrlnd1704@gmail.com)
