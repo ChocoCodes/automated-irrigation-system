@@ -7,12 +7,12 @@ WITH MOISTURE DETECTOR: INTERACTIVE SMARTPHONE APPLICATION**
 
 ## !!! DISCLAIMER !!!
 
-This project is provided as-is, and there is no guarantee that it will remain up-to-date. Potential users are advised that:
+This project is provided as-is, and there is no guarantee that it will remain updated. Potential users are advised that:
 - The software may become outdated over time due to changes in technology or dependencies.
 - Replication of this project may require updates or modifications to maintain functionality.
 - The maintainers may not actively monitor or update this repository.
 
-Please consider these factors before using or replicating this project in your own environment. For any inquries regarding this project, please see [CONTACT](##Contact).
+Please consider these factors before using or replicating this project in your own environment. For any inquries regarding this project, please see [CONTACT](## Contact).
 
 
 ## Description:
@@ -52,5 +52,5 @@ Engr. George Wilfred L. Solancho
 
 ## Contact
 
-If you encounter any bugs or have suggestions for improvements, please feel free to contact me:
-- **Email:** [johnrlnd1704@gmail.com](mailto:johnrlnd1704@gmail.com)
+If you encounter any bugs or have suggestions for improvements, please feel free to contact me via:
+- **Email:** [johnrlnd1704@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=johnrlnd1704@gmail.com)
